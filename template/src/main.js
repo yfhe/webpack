@@ -9,6 +9,7 @@ import router from './router'
 {{/router}}
 
 Vue.config.productionTip = false
+require('amfe-flexible')
 
 /* eslint-disable no-new */
 new Vue({
